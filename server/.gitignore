@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+# Compiled output
+build/
+dist/
+# Environment files
+.env
+# IDE files
+.vscode/
+.idea/
+# Log files
+*.log
+# macOS
+.DS_Store
+# npm package files
+*.lock
