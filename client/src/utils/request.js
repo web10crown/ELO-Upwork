@@ -1,2 +1,2 @@
-const publicRequest = "http://localhost:5000";
+const publicRequest = "https://elo-upwork.vercel.app";
 export default publicRequest;
