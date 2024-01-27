@@ -11,8 +11,8 @@ app.use(express.json());
 
 //Elo ratings for players (dummy data)
 let players = {
-  player1: 1200,
-  player2: 1200,
+  player1: 100,
+  player2: 100,
 };
 
 // Update Elo ratings
