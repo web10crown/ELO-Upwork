@@ -127,6 +127,7 @@ function App() {
                 </tr>
               </tbody>
             </table>
+            <p className="my-5">Please refresh the page for another winner</p>
           </>
         ) : (<p className="my-5">Ratings will apear here after update</p>)}
       </div>
