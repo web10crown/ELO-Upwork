@@ -64,7 +64,7 @@ function App() {
         )
         }
         <h1 className="heading my-3">Description</h1>
-        <p className="mb-5">Welcome to our MERN stack web application! Our platform utilizes the Elo rating system to provide players with specific ratings based on their performance and victories. This example application showcases the fundamental functionality of the Elo rating system within a gaming context. However, our team has the expertise to enhance and expand the features of this application to suit various needs and requirements. Whether it's additional functionality, customization, or integration with other systems, we're here to deliver a tailored solution that meets your specific goals.</p>
+        <p className="mb-5">Welcome to our MERN stack web application! Our platform utilizes the Elo rating system to provide players with specific ratings based on their performance and victories. This example application showcases the fundamental functionality of the Elo rating system within a gaming context. However, i have the expertise to enhance and expand the features of this application to suit various needs and requirements. Whether it's additional functionality, customization, or integration with other systems, i'm here to deliver a tailored solution that meets your specific goals.</p>
         <h1 className="heading my-5">Initial Ratings</h1>
         {loading ? (
           <div className="spinner-border text-primary my-4" role="status">
