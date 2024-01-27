@@ -93,7 +93,7 @@ function App() {
             </tbody>
           </table>
         )}
-        <h1 className="heading my-5">Choose a player to win</h1>
+        <h1 className="heading my-5">Choose a winner </h1>
         {!win ? (
           <>
             <button type="button" name="player1" className="btn btn-primary btn-lg mr-5" onClick={handleRatings} >Player 1</button>
